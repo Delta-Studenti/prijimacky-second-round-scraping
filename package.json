@@ -1,0 +1,8 @@
+{
+  "name": "prijimacky-second-round-scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Delta-Studenti/prijimacky-second-round-scraping",
+  "author": "Kryštof <krystof.kratky2003@gmail.com>",
+  "license": "MIT"
+}
